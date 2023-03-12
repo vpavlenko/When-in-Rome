@@ -1,0 +1,57 @@
+Composer: Chopin, Frédéric
+Title: BI-120
+Analyst: Vitaly Pavlenko
+
+Time Signature: 3/4
+Note: compound ternary, |:A:| |:B A:| |:C:| |:D C:| A B A
+Note: my spelling of diminished seventh chords (io7, vo7) is clearly not consistent with the corpus
+Form: A
+Pedal: A m1 m1
+m1 A: I b3 V7
+m2 I b3.5 V
+m3 I
+m4 io7 b1.75 I 
+m5 C#: Cad64 b3 V7
+m6 I 
+m7 b1.5 A: ii6 b2.5 iii6 b3 IV6
+m8 V7 b3 I
+Form: B
+m9 E: V7 b3.5 I
+m10 V7
+m11 c#: i b2 iv b2.5 i64[no3] b3 iv6 b3.5 V7
+m12 i b1.5 G#: V7 b2 I b2.5 V7 
+m13 V7 b3.5 I 
+m14 V7 b3.5 I 
+m15 A: vi6 b2.5 iii64 b3 vi b3.5 V7/V
+m16 V b1.5 I6 b2 ii7 b3 V7
+Form: A
+m17-24 = m1-8
+Form: C
+m25 D: I b3 V2
+m26 I b3 V43 b3.5 I
+m27 V b3 ii7[no5]/V
+m28 V b3 V43/V b3.5 V
+m29 IV b2.5 V/vi b3 vi b3.5 V
+m30 I b2.5 V/iii b3 iii b3.5 V/V
+m31 V7 b3 Cad64 b3.5 vo7
+m32 V7
+m33 = m25 
+m34 I b3 ii7[no5] b3.5 I
+m35 V b3 V42/V
+m36 V b3 ii7[no5]/V b3.5 V
+m37 Bb: V7 b3 I
+m38 C: V7 b3 I
+m39 D: V7
+m40 b3 I
+m41-56 = m25-40
+Form: D
+m57 D: vii[no3no5]
+m58 iv6
+m59 I[no3no5]
+m60 viio65/V
+m61 I[no3no5]
+m62 V2/IV
+m63 IV6 b2.5 Fr
+m64 V
+Form: C
+m65-80 = m25-40
